@@ -1,6 +1,6 @@
 # SmoothSmooth CoffeeScript
 
-Es un libro gratuito sobre CoffeeScript y programación. No se requiere conocimiento previo de programación. Más de 200 páginas y 35 ejercicios. La descarga incluye el libro y el código fuente completo, con y sin soluciones. Más información: Página del libro.
+No se requiere conocimiento previo de programación. Más de 200 páginas y 35 ejercicios. La descarga incluye el libro y el código fuente completo, con y sin soluciones. Más información: Página del libro.
 
 Edición interactiva en HTML 5 - No se requiere instalación. Referencias rápidas y varios ejemplos.
 
